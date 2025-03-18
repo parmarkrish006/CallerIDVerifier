@@ -36,7 +36,7 @@ pip install requests
 Clone the repository and navigate to the project folder:
 
 git clone https://github.com/parmarkrish006/CallerIDVerifier.git
-cd CallerID
+cd CallerIDVerifier
 
 Run the script:
 
