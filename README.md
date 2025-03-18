@@ -42,9 +42,7 @@ git clone https://github.com/parmarkrish006/CallerIDVerifier.git
 
 cd CallerIDVerifier
 
-Run the script:
-
-python callerid.py
+Run the script
 
 ⚙️ How It Works
 
