@@ -32,7 +32,7 @@ When you input a number, the program returns details in JSON format: (here the n
 
 Ensure you have Python installed (3.7+ recommended). Install dependencies:
 
-pip install requests
+pip install requests bs4
 
 🔹 Running the Program
 
