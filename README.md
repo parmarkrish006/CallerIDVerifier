@@ -4,7 +4,10 @@ CallerID is a Python-based tool that validates and retrieves details about phone
 
 ✨ Features
 
-✅ Phone Number Validation – Check if a phone number is valid or not.✅ Detailed Information – Get country name, carrier, and line type.✅ Supports International Numbers – Works with numbers worldwide.✅ Lightweight & Fast – Efficient API-based lookup.
+1. Phone Number Validation – Check if a phone number is valid or not.
+2. Detailed Information – Get country name, carrier, and line type.
+3. Supports International Numbers – Works with numbers worldwide.
+4. Lightweight & Fast – Efficient API-based lookup.
 
 🖥️ Example Output
 
